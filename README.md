@@ -1,83 +1,36 @@
-# Hi there, I'm Afnan 👋
+# Hi, I'm Afnan 👋
 
-I'm a Software Engineer who enjoys building modern web applications from idea to deployment. I like working across the entire stack, creating intuitive frontend experiences, designing reliable backend services, and building systems that scale.
+I'm a Software Engineer who enjoys turning ideas into products, whether that's crafting smooth UIs, building reliable APIs, or figuring out why something broke at 2 AM.
 
-Currently, I'm focused on building performant applications with **React**, **Next.js**, **TypeScript**, **Node.js**, and **Python**, while continuously exploring cloud technologies, system design, and AI-powered solutions.
+Lately, I've been building with **React**, **Next.js**, **TypeScript**, and **Python**, while diving deeper into system design, cloud, and AI.
 
-## 💻 Tech Stack
+## 🛠️ Tech I Enjoy
 
-### Frontend
+**Frontend:** React • Next.js • TypeScript • Tailwind CSS
 
-* React
-* Next.js
-* TypeScript
-* JavaScript
-* HTML5
-* CSS3
-* Tailwind CSS
+**Backend:** Node.js • Express • FastAPI • REST • GraphQL
 
-### Backend
+**Data:** PostgreSQL • MongoDB • Temporal • Grafana
 
-* Node.js
-* Express.js
-* FastAPI
-* REST APIs
-* GraphQL
+**Cloud & Tools:** AWS • Docker • GitHub Actions • Contentful • Git
 
-### Data
+## 🌱 Currently Exploring
 
-* PostgreSQL
-* MongoDB
-* Temporal
-* Grafana
+* AI & LLM applications
+* Scalable system design
+* Cloud architecture
+* Building things people actually enjoy using
 
-### Cloud & DevOps
+## ⚽ Outside of Work
 
-* AWS
-* Vercel
-* GitHub Actions
-* Docker
-* Git
+* Football fanatic
+* Toastmasters member
+* Side project enthusiast
+* Always learning something new
 
-### CMS & Tools
-
-* Contentful
-* Figma
-* Postman
-
-## 🚀 What I'm Working On
-
-* Building scalable full-stack applications
-* Designing clean APIs and backend services
-* Improving application performance
-* Learning cloud architecture and system design
-* Exploring AI and LLM-powered applications
-
-## 🌱 Always Learning
-
-Technology evolves every day, and so do I. I'm always experimenting with new frameworks, tools, and architectural patterns to become a better engineer.
-
-## 📈 Interests
-
-* Full Stack Development
-* System Design
-* Artificial Intelligence
-* Developer Experience
-
-## ⚽ Beyond Code
-
-When I'm not coding, you'll probably find me:
-
-* Playing or watching football
-* Reading about new technologies
-* Participating in Toastmasters
-* Working on side projects
-
-## 🤝 Let's Connect
+## 🤝 Find Me Here
 
 * 💼 LinkedIn: https://linkedin.com/in/afnansohail99
 * 🌐 Website: https://afnansohail.github.io
 
----
-
-*"Code with purpose. Build for people. Never stop learning."*
+> *Building cool things, breaking a few along the way, and learning from all of it.*
