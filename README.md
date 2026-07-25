@@ -30,7 +30,9 @@ Lately, I've been building with **React**, **Next.js**, **TypeScript**, and **Py
 
 ## 🤝 Find Me Here
 
-* 💼 https://linkedin.com/in/afnansohail99
-* 🌐 https://afnansohail.github.io
+* 💼 <https://linkedin.com/in/afnansohail99>
+* 🌐 <https://afnansohail.github.io>
 
 > *Building cool things, breaking a few along the way, and learning from all of it.*
+
+![](./profile-3d-contrib/profile-night-green.svg)
