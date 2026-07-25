@@ -4,6 +4,15 @@ I'm a Software Engineer who enjoys turning ideas into products, whether that's c
 
 Lately, I've been building with **React**, **Next.js**, **TypeScript**, and **Python**, while diving deeper into system design, cloud, and AI.
 
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img
+      src="https://streak-stats.demolab.com?user=afnansohail&theme=transparent&hide_border=true"
+      alt="GitHub Streak"
+    />
+  </a>
+</p>
+
 ## 🛠️ Tech I Enjoy
 
 **Frontend:** React • Next.js • TypeScript • Tailwind CSS
@@ -36,5 +45,9 @@ Lately, I've been building with **React**, **Next.js**, **TypeScript**, and **Py
 > *Building cool things, breaking a few along the way, and learning from all of it.*
 
 <p align="center">
-  <img src="./profile-3d-contrib/profile-night-green.svg" width="100%" alt="3D GitHub Contributions" />
+  <img
+    src="./profile-3d-contrib/profile-night-green.svg"
+    width="100%"
+    alt="3D GitHub Contributions"
+  />
 </p>
