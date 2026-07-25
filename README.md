@@ -38,5 +38,5 @@ Lately, I've been building with **React**, **Next.js**, **TypeScript**, and **Py
 ![](./profile-3d-contrib/profile-night-green.svg)
 
 <p align="center">
-  <img src="./profile-3d-contrib/profile-night-green.svg" alt="3D GitHub Contributions" />
+  <img src="./profile-3d-contrib/profile-night-green.svg" width="60%" alt="3D GitHub Contributions" />
 </p>
