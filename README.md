@@ -5,7 +5,7 @@ I'm a Software Engineer who enjoys turning ideas into products, whether that's c
 Lately, I've been building with **React**, **Next.js**, **TypeScript**, and **Python**, while diving deeper into system design, cloud, and AI.
 
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 <p align="left">
   <!-- Frontend -->
@@ -44,25 +44,26 @@ Lately, I've been building with **React**, **Next.js**, **TypeScript**, and **Py
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
-## 🌱 Currently Exploring
+## Currently Exploring
 
 * AI & LLM applications
 * Scalable system design
 * Building things people actually enjoy using
 
-## ⚽ Outside of Work
+## Outside of Work
 
 * Football fanatic
 * Toastmasters member
 * Side project enthusiast
 * Always learning something new
 
-## 🤝🏼 Find Me Here
+## Find Me Here
 
-* 💼 <https://linkedin.com/in/afnansohail99>
-* 🌐 <https://afnansohail.github.io>
+* <https://linkedin.com/in/afnansohail99>
+* <https://afnansohail.github.io>
 
 > *Building cool things, breaking a few along the way, and learning from all of it.*
+
 
 <p align="center">
   <img
